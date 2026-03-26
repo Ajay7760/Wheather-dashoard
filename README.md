@@ -54,18 +54,18 @@ This project analyzes rainfall data across districts and mandals in Telangana St
 - Provides **localized water management strategies** for districts.  
 
 ---
+## 🏞️ Dam Recommendations
+Based on rainfall analysis:
+- Mulugu → Large dam for flood control & irrigation
+- Warangal → Medium dam for seasonal storage
+- Bhadradri Kothagudem, Nirmal → Check dams for local irrigation
+- Kamareddy, Sangareddy → Micro-dams for water harvesting
 
 ## ✅ Conclusion
 The analysis reveals significant seasonal and regional rainfall variations across Telangana. With rainfall declining year-on-year, this project emphasizes the need for **climate preparedness, irrigation planning, and water harvesting strategies**.
 
 ---
 
-## 📌 How to Use
-1. Clone the repository.  
-2. Open the Power BI file to explore interactive dashboards.  
-3. Use filters to analyze rainfall trends by district, year, or season.  
-
----
 
 ## 🙌 Acknowledgements
 Special thanks to stakeholders and data providers supporting this project.  
