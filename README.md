@@ -72,6 +72,5 @@ Special thanks to stakeholders and data providers supporting this project.
 
 ---
 
-Would you like me to also create a **sample project structure section** (like `data/`, `reports/`, `visualizations/`) so your README looks even more professional and recruiter-friendly?
 
 <img width="999" height="569" alt="image" src="https://github.com/user-attachments/assets/a8a9c86b-d11a-41d5-8ecd-e8a704380bed" />
